@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 
-🎓 Field:        Computer Science Engineering (AI & Machine Learning)
+🎓 Field:        Computer Science Engineering (AI & Machine Learning)</br>
 🔭 Focus:        Artificial Intelligence, Machine Learning, Web Development
 🌱 Currently:    Deepening my skills in Python-based AI/ML projects
 🤝 Open To:      Collaborations on impactful software & research projects
