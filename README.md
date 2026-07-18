@@ -131,9 +131,54 @@ me.say_hi()
 
 <img src="https://raw.githubusercontent.com/Luuuucifeeeer/Luuuucifeeeer/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
 
-<sub>✨ Add the <code>generate-snake</code> GitHub Action to your profile repo to auto-generate this animation — see setup note below.</sub>
-
 </div>
+
+<details>
+<summary>⚙️ Setup (click to expand) — needed once for the snake animation above to work</summary>
+
+The snake image won't render until a GitHub Action generates it in an `output` branch of this repo. Do this once:
+
+1. In this repo, create a file at `.github/workflows/snake.yml` with the content below.
+2. Go to **Settings → Actions → General → Workflow permissions** and select **"Read and write permissions."**
+3. Go to the **Actions** tab → select **"Generate Snake Animation"** → click **"Run workflow"** to trigger it the first time.
+4. Once it succeeds, it creates the `output` branch that the image above pulls from. It will also re-run daily and on every push to `main`.
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch:      # allows manual runs from the Actions tab
+  push:
+    branches:
+      - main              # regenerate whenever you push to main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Luuuucifeeeer
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
