@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:FFC93C&height=280&section=header&text=Hey%20I'm%20Ayush%20Shinde&fontSize=50&fontAlignY=35&animation=glitch&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0077B5&height=280&section=header&text=Hey%20I'm%20Ayush%20Shinde&fontSize=50&fontAlignY=35&animation=glitch&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=900&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Developer+(React+%7C+Flask+%7C+Node);Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=900&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Full-Stack+Developer+(React+%7C+Flask+%7C+Node);Always+Learning+New+Technologies" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luuuucifeeeer&style=social&color=FF6B35&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Luuuucifeeeer&style=social&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
 <br><br>
 </p>
 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Connect-ayushshinde2705@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/ayush-shinde-169772274">
-    <img src="https://img.shields.io/badge/Network-LinkedIn-FFC93C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://discord.gg/erEKcm9eaX">
     <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -136,7 +136,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Netlify-FF6B35?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
 </td>
@@ -155,7 +155,7 @@
 <div align="center">
 
 <a href="https://github.com/Luuuucifeeeer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luuuucifeeeer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B35&line=FFC93C&point=FFFFFF&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luuuucifeeeer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=0077B5&point=FFFFFF&area=true" alt="Contribution Graph"/>
 </a>
 
 <br><br>
@@ -166,7 +166,7 @@
 <br><br>
 
 <a href="https://github.com/Luuuucifeeeer">
-  <img src="https://streak-stats.demolab.com?user=Luuuucifeeeer&theme=tokyonight&hide_border=true&ring=FF6B35&fire=FFC93C" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Luuuucifeeeer&theme=tokyonight&hide_border=true&ring=00C7B7&fire=0077B5" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -200,7 +200,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC93C,100:FF6B35&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=120&section=footer" width="100%"/>
   <p><b>💡 "Code is not just logic — it's creativity with syntax."</b></p>
   <p>⭐️ Thanks for visiting my profile — feel free to connect and collaborate! ⭐️</p>
 </div>
