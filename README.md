@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 Passionate **Computer Science Engineering** student specializing in **Artificial Intelligence &amp; Machine Learning**
+- 🎓 Passionate **Computer Science Engineering** student specializing in **Artificial Intelligence & Machine Learning**
 - 🧠 I enjoy building intelligent applications and solving real-world problems through software development
 - 🌱 Currently focused on **AI, Machine Learning, Web Development**, and **Python-based projects**
 - 🔭 Constantly expanding my problem-solving and development skills
@@ -48,7 +48,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white)
 
-**Web &amp; Frameworks**
+**Web & Frameworks**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
@@ -59,7 +59,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&amp;logo=WordPress&amp;logoColor=white)
 
-**AI / ML &amp; Data**
+**AI / ML & Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white)
@@ -77,7 +77,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white)
 
-**Cloud &amp; Deployment**
+**Cloud & Deployment**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
@@ -114,7 +114,7 @@
 
 </div>
 
-> 💡 **Note:** The snake animation above requires a one-time GitHub Actions setup in your profile repo. I can walk you through adding it if you'd like — see the note at the end of this file.
+> 💡 **Note:** The snake animation above requires a one-time GitHub Actions setup in your profile repo. Ask me and I'll give you the workflow file.
 
 ## ✍️ Random Dev Quote
 
