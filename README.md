@@ -14,10 +14,10 @@
 
 
 🎓 Field:        Computer Science Engineering (AI & Machine Learning)</br>
-🔭 Focus:        Artificial Intelligence, Machine Learning, Web Development
-🌱 Currently:    Deepening my skills in Python-based AI/ML projects
-🤝 Open To:      Collaborations on impactful software & research projects
-⚡ Fun Fact:     I love turning real-world problems into working code
+🔭 Focus:        Artificial Intelligence, Machine Learning, Web Development</br>
+🌱 Currently:    Deepening my skills in Python-based AI/ML projects</br>
+🤝 Open To:      Collaborations on impactful software & research projects</br>
+⚡ Fun Fact:     I love turning real-world problems into working code</br>
 
 
 <div align="center">
