@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ayush%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Solving+Real-World+Problems+with+Code+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+Intelligent+Applications+%F0%9F%A4%96;Solving+Real-World+Problems+with+Code+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
@@ -91,10 +91,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Luuuucifeeeer&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Luuuucifeeeer&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Luuuucifeeeer&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=Luuuucifeeeer&amp;theme=radical&amp;hide_border=true"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Luuuucifeeeer&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Luuuucifeeeer&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact"/>
 
 </div>
 
