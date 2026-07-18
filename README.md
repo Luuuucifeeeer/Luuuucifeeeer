@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Ayush Shinde 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0077B5&height=200&section=header&text=Ayush%20Shinde&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### 🚀 AI/ML Engineer | Full-Stack Developer | Problem Solver
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake contribution animation"/>
 
 </div>
 
@@ -21,6 +21,8 @@
 ```
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Luuuucifeeeer&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -118,6 +120,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500">
+
 </div>
 
 ---
@@ -127,6 +131,8 @@
 ### 💡 "Code is not just logic — it's creativity with syntax."
 
 ⭐️ **Thanks for visiting my profile — feel free to connect and collaborate!** ⭐️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=120&section=footer" width="100%"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
