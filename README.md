@@ -1,175 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=260&section=header&text=Ayush%20Shinde&fontSize=54&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
+# Hi there, I'm Ayush Shinde 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=06B6D4&center=true&vCenter=true&random=false&width=800&lines=Machine+Learning+%26+Computer+Vision;Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);Turning+Ideas+Into+Intelligent+Software" alt="Typing SVG" />
-</a>
+### 🚀 AI/ML Engineer | Full-Stack Developer | Problem Solver
 
-<br>
-
-<p align="center">
-  <a href="mailto:ayushshinde2705@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/ayush-shinde-169772274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/i_am_ayushshinde">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/erEKcm9eaX">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Luuuucifeeeer&style=flat-square&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies)
 
 </div>
 
-<br>
+---
 
-## 🧭 Quick Facts
+## 💫 About Me
+
+```yaml
+🎓 Field:        Computer Science Engineering (AI & Machine Learning)
+🔭 Focus:        Artificial Intelligence, Machine Learning, Web Development
+🌱 Currently:    Deepening my skills in Python-based AI/ML projects
+🤝 Open To:      Collaborations on impactful software & research projects
+⚡ Fun Fact:     I love turning real-world problems into working code
+```
 
 <div align="center">
 
-| 🎓 Role | 🧠 Focus | 🌱 Learning | 🤝 Open To |
-|:---:|:---:|:---:|:---:|
-| CSE (AI & ML) Student | AI/ML • Full-Stack Dev | Advanced ML & Intelligent Systems | Collaborations & Internships |
+![Profile Views](https://komarev.com/ghpvc/?username=Luuuucifeeeer&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
-<br>
+---
 
-## 👋 About Me
-
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      <p>
-        I'm a Computer Science Engineering student specializing in <b>Artificial Intelligence & Machine Learning</b>, focused on building software that solves real problems rather than just checking a box on a syllabus.
-      </p>
-      <ul>
-        <li>🔭 Building AI-powered applications with a focus on <b>Machine Learning & Computer Vision</b></li>
-        <li>⚙️ Developing full-stack projects using <b>Python, React, and Flask</b></li>
-        <li>📈 Currently sharpening my skills in advanced ML and intelligent systems</li>
-        <li>💬 Happy to talk AI/ML projects, web dev, or anything Python</li>
-      </ul>
-    </td>
-    <td width="32%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/mrhm-dev/mrhm-dev/main/img/main.gif" width="230" alt="Coding animation"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
-
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
 <div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/erEKcm9eaX)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_am_ayushshinde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-shinde-169772274)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushshinde2705@gmail.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark" alt="Languages"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**AI / ML & Data**
+**Web & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,anaconda&theme=dark" alt="AI and ML"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Backend & Databases**
+**AI / ML & Data Science**
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb,mysql,sqlite&theme=dark" alt="Backend and Databases"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Frontend**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite,wordpress&theme=dark" alt="Frontend"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Cloud, Tools & Platforms**
+**Cloud & Deployment**
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,vscode&theme=dark" alt="Cloud and Tools"/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Project One</h3>
-      <p align="center"><i>One-line description of what it does</i></p>
-      <p>Short paragraph on the problem it solves and how it works — swap this in for a real project.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      </p>
-      <p align="center"><a href="#">🔗 View Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Project Two</h3>
-      <p align="center"><i>One-line description of what it does</i></p>
-      <p>Short paragraph on the problem it solves and how it works — swap this in for a real project.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-      <p align="center"><a href="#">🔗 View Repository</a></p>
-    </td>
-  </tr>
-</table>
-
-<sub>Pin your two or three strongest repos here — this is the first thing recruiters actually read.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Luuuucifeeeer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Luuuucifeeeer&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Luuuucifeeeer&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Luuuucifeeeer&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Luuuucifeeeer&theme=tokyonight&hide_border=true&ring=06B6D4&fire=6366F1" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luuuucifeeeer&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6366F1&point=FFFFFF&area=true" alt="Contribution Graph" width="90%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luuuucifeeeer&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=Luuuucifeeeer&theme=radical&hide_border=true" width="70%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+![](https://github-profile-trophy.vercel.app/?username=Luuuucifeeeer&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)
 
 </div>
 
-<br>
+---
+
+## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
-  <p><b>Thanks for stopping by — let's build something great.</b></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is not just logic — it's creativity with syntax."
+
+⭐️ **Thanks for visiting my profile — feel free to connect and collaborate!** ⭐️
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 </div>
