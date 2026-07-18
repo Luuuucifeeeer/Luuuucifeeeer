@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ayush%20Shinde&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ayush%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Solving+Real-World+Problems+with+Code+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -130,7 +130,7 @@
 
 [![](https://komarev.com/ghpvc/?username=Luuuucifeeeer&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 <sub>Proudly created with 💜 · Powered by [GPRM](https://gprm.itsvg.in)</sub>
 
