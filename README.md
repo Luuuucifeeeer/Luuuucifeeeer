@@ -12,13 +12,13 @@
 
 ## 💫 About Me
 
-```yaml
+
 🎓 Field:        Computer Science Engineering (AI & Machine Learning)
 🔭 Focus:        Artificial Intelligence, Machine Learning, Web Development
 🌱 Currently:    Deepening my skills in Python-based AI/ML projects
 🤝 Open To:      Collaborations on impactful software & research projects
 ⚡ Fun Fact:     I love turning real-world problems into working code
-```
+
 
 <div align="center">
 
