@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ayush%20Shinde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=650&amp;height=80&amp;lines=Building+Intelligent+Applications+%F0%9F%A4%96;Solving+Real-World+Problems+with+Code+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Solving+Real-World+Problems+with+Code+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80)
 
 </div>
 
@@ -91,10 +89,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Luuuucifeeeer&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=Luuuucifeeeer&amp;theme=radical&amp;hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Luuuucifeeeer&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Luuuucifeeeer&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Luuuucifeeeer&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact"/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Luuuucifeeeer&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -102,7 +100,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Luuuucifeeeer&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Luuuucifeeeer&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1)
 
 </div>
 
@@ -114,13 +112,13 @@
 
 </div>
 
-> 💡 **Note:** The snake animation above requires a one-time GitHub Actions setup in your profile repo. I can walk you through adding it if you'd like — see the note at the end of this file.
+> 💡 **Note:** The snake animation needs a one-time GitHub Actions workflow added to your profile repo (`Luuuucifeeeer/Luuuucifeeeer`) before it will render. Ask me and I'll give you the workflow file.
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -128,10 +126,10 @@
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Luuuucifeeeer&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Luuuucifeeeer&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://visitcount.itsvg.in)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
-<sub>Proudly created with 💜 · Powered by [GPRM](https://gprm.itsvg.in)</sub>
+<sub>Proudly created with 💜 · Powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 </div>
